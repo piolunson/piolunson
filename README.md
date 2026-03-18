@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+## I dunno how to start so
+### What I'm currently working on? 
+- koolti-tool which is already acsessible on github
+- pio-launcher that you can download on my wbesite 
 
 <!--
 **piolunson/piolunson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
